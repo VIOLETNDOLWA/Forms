@@ -14,8 +14,9 @@
     padding: 25px 0;
     margin-left: 89px;
    
-    
-    
-    
-   
-}
+   }
+   .text{
+      max-width: 20%;
+      max-height: 15%;
+      background: chartreuse;
+   }
