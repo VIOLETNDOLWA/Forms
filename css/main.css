@@ -1,22 +1,7 @@
-.container-fluid{
-   
-   background-color:#fff;
-   margin-top:3px;
-   margin: 20px;
-   
-} 
-
-
-.container-fluid{
-   background-color:#D3D3D3;
-    border-radius: 16px;
-    font-size: 18px;
-    padding: 25px 0;
-    margin-left: 89px;
-   
-   }
-   .text{
-      max-width: 20%;
-      max-height: 15%;
-      background: chartreuse;
-   }
+.multi{
+    background-color:gainsboro;
+    min-width: 20px;
+    min-height: 70px;
+    margin-left: 10px;
+    
+}
